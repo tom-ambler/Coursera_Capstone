@@ -1,2 +1,3 @@
 # Coursera_Capstone
-Accident Severity
+## Accident Severity
+### Jupyter notebook created on IBM Watson
